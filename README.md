@@ -1,5 +1,6 @@
 # 2048
 
+2048 is a puzzle game played on a simple grid of size 4x4, with numbered tiles that are a power of 2. They numbered tiles slide in one of 4 directions (UP, DOWN, LEFT, RIGHT) based on user input.  Every turn, a new tile will randomly appear in an empty spot on the board with a value of either 2 or 4. Tiles will slide as far as possible in desired direction until they are stopped by either another tile or the edge of the grid.  If two tiles of the same number collide while moving, they will merge into a tile with a total value of the two tiles that collide.
 
 This is a modification of the game 2048, a popular puzzle game in the app store
 where a player's goal is to create a tile of 2048. The original game can be
