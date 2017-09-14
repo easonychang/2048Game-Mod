@@ -10,13 +10,15 @@ Some modifications to the game are you can create a game board of size 4 or
 bigger, and you can rotate the game board. 
 
 
+To compile
+> javac GameManager.java Gui2048.java Board.java Direction.java
 
 
 To run the program:
 
-Ex: > java Game2048 -o my2048.board -i input2048.board
-    > java Game2048 -s 5
-    > java Game2048
+Ex: > java Gui2048 -o my2048.board -i input2048.board
+    > java Gui2048 -s 5
+    > java Gui2048
 
     -i <filename>   - used to specify an input board
     -o <filename> - used to specify where to save the board upon exit
