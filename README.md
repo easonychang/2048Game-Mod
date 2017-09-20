@@ -23,6 +23,6 @@ Ex:
 
 > java Gui2048
 
-    -i <filename>   - used to specify an input board
+    -i <filename> - used to specify an input board
     -o <filename> - used to specify where to save the board upon exit
     -s <integer>  - used to specify the grid size
