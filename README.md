@@ -18,7 +18,9 @@ To run the program:
 
 Ex:
 > java Gui2048 -o my2048.board -i input2048.board
+
 > java Gui2048 -s 5
+
 > java Gui2048
 
     -i <filename>   - used to specify an input board
